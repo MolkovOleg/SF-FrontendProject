@@ -40,11 +40,12 @@
 
 + Страница со статьей блога
 
-[article.pdf](https://github.com/user-attachments/files/20764621/article.pdf)
+![molkovoleg github io_SF-FrontendProject_article html](https://github.com/user-attachments/assets/7b4c1afa-6f28-4a0a-a179-8faa53ceddda)
 
 
 + Главная страница блога
 
-[index.pdf](https://github.com/user-attachments/files/20764622/index.pdf)
+![molkovoleg github io_SF-FrontendProject_index html](https://github.com/user-attachments/assets/fdd7b6ed-373c-4bb4-a04b-0c24d57e2d76)
+
 
 
