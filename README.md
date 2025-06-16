@@ -32,9 +32,9 @@
 
 #### Ссылка на страницы:
 
-+ https://molkovoleg.github.io/SF-FrontendProject/pages/article.html
++ https://molkovoleg.github.io/SF-FrontendProject/article.html
 
-+ https://molkovoleg.github.io/SF-FrontendProjectt/pages/index.html
++ https://molkovoleg.github.io/SF-FrontendProjectt/index.html
 
 #### Внешний вид страницы
 
