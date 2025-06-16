@@ -34,7 +34,7 @@
 
 + https://molkovoleg.github.io/SF-FrontendProject/article.html
 
-+ https://molkovoleg.github.io/SF-FrontendProjectt/index.html
++ https://molkovoleg.github.io/SF-FrontendProject/index.html
 
 #### Внешний вид страницы
 
