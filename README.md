@@ -40,9 +40,11 @@
 
 + Страница со статьей блога
 
+[article.pdf](https://github.com/user-attachments/files/20764621/article.pdf)
 
 
 + Главная страница блога
 
+[index.pdf](https://github.com/user-attachments/files/20764622/index.pdf)
 
 
